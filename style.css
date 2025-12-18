@@ -1,0 +1,53 @@
+body{
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background: linear-gradient(135deg,#1d2671,#c33764);
+  margin:0;
+  padding:0;
+}
+
+.album{
+  max-width:340px;
+  margin:50px auto;
+  padding:20px;
+  background:#fff;
+  border-radius:12px;
+  box-shadow:0 10px 25px rgba(0,0,0,0.3);
+  text-align:center;
+}
+
+.album img{
+  width:100%;
+  border-radius:10px;
+  margin-bottom:15px;
+}
+
+.album h1{
+  margin:10px 0;
+  color:#222;
+}
+
+.album p{
+  color:#666;
+  font-size:14px;
+}
+
+.album h3{
+  margin-top:20px;
+  color:#c33764;
+}
+
+.album ul{
+  list-style:none;
+  padding:0;
+}
+
+.album li{
+  padding:8px;
+  margin:6px 0;
+  background:#f4f4f4;
+  border-radius:6px;
+  font-size:14px;
+}
+
+
+
